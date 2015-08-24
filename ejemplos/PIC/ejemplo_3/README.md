@@ -21,8 +21,6 @@ L1- L2- L3- L4- L5- L6- L7- L8
 Se repite la secuencia ...
 ...                
 
-Para este ejemplo debera usar el puerto B.
-
 Archivos:
 - Archivo fuente: barra_kid.c
 - Archivo de Proteus: barra_kid.pdsprj
